@@ -27,3 +27,5 @@ It can also do
 
 
 ##### At more stars , ill add some more features like minecraft grabbers , files , keylogging , facecam , screenshot , etc
+
+##### Dont use for bad things , its not good , this is only for pin testing your websites , see how safe u are against simple virus like mine , use this for testing no harm
