@@ -24,3 +24,6 @@ It can also do
 > Add to Startup
 
 > No Console
+
+
+##### At more stars , ill add some more features like minecraft grabbers , files , keylogging , facecam , screenshot , etc
