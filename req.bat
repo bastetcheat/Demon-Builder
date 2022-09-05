@@ -6,3 +6,4 @@ pip install requests
 pip install Pillow
 pip install pycryptodomex
 pip install termcolor
+pip install pystyle
