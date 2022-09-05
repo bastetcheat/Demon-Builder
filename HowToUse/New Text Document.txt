@@ -1,0 +1,14 @@
+U NEED PYTHON
+DOWNLOAD LINK - https://www.python.org/downloads/release/python-395/ 
+(SCROLL DOWN)
+
+U want to add it to path once it ask so , it finna say it right away , dont mess it up
+U want to make a discord webhook , if you dont know , look it up
+
+Now u want to click the runme.bat file , it will run your program for you , there u go ! 
+put ur webhook in and there u go ! best stub shi
+
+scooby#0001 for help , dms always open
+
+discord for help - https://discord.gg/2u8Gv3T4w4 
+server will prolly be faster
